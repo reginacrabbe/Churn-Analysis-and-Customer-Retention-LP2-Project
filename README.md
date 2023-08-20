@@ -118,7 +118,8 @@ This section includes a list of sources, research papers and articles used in th
 
 |Code|Name of Project|Published Article|Deployed App|
 |:---|:-------------:|:---------------:|-----------:|
-|LPI |Indian Startup |https://medium.com/@rndcrabbe/exploring-the-dynamic-realm-of-indias-startup-ecosystem-a-data-analysis-project-e7f54216702e|Medium|
+|LP2 |Churn Analysis|https://medium.com/@rndcrabbe/churn-analysis-and-customer-retention-strategies-for-a-telecommunication-company-46551be40b41|Medium|
+|PBI |Power BI |https://app.powerbi.com/groups/me/reports/33012db4-e70c-4afb-9242-b883331c8e2d/ReportSection?ctid=4487b52f-f118-4830-b49d-3c298cb71075&experience=power-bi )|Power BI Dashboard|
 
 ## Technologies Used
 - Programming Language:
